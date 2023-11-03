@@ -33,6 +33,13 @@ The web application files were then uploaded to the EC2 Web Server, and users ac
 
 <img width="612" alt="Screen Shot 2023-11-03 at 1 16 15 AM" src="https://github.com/ProBag/Big-Data-Los-Angeles-Crime-Data-Analysis/assets/143302669/ef132da5-822e-46ef-a538-0a76ba85d23f">
 
+## Visualization
+
+<img width="980" alt="Screen Shot 2023-11-03 at 1 29 27 AM" src="https://github.com/ProBag/Big-Data-Los-Angeles-Crime-Data-Analysis/assets/143302669/d16a8d14-3ed3-4cd4-ae8c-42646c5a2eb0">
+
+<img width="901" alt="Screen Shot 2023-11-03 at 1 30 00 AM" src="https://github.com/ProBag/Big-Data-Los-Angeles-Crime-Data-Analysis/assets/143302669/44bba034-7588-4835-9de2-df51fd19e257">
+
+
 ## Conclusion 
 
 Crime data from 2010 to 2023 in Los Angeles was obtained from the Los Angeles Open Data portal. The data was combined and uploaded to an Amazon S3 bucket. An EMR cluster was then created to provide the resources for ETL and analytical processing. The data was processed through a PySpark script and Amazon Glue, and the output was a parquet file.
